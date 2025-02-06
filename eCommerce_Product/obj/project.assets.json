@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Conestoga\\PROG2070\\eCommerce_Product\\eCommerce_Product\\eCommerce_Product.csproj",
-      "projectName": "eCommerce_Product",
-      "projectPath": "C:\\Conestoga\\PROG2070\\eCommerce_Product\\eCommerce_Product\\eCommerce_Product.csproj",
+      "projectUniqueName": "C:\\Conestoga\\PROG2070\\eCommerce_Product\\eCommerce_Product\\MyProject.csproj",
+      "projectName": "MyProject",
+      "projectPath": "C:\\Conestoga\\PROG2070\\eCommerce_Product\\eCommerce_Product\\MyProject.csproj",
       "packagesPath": "C:\\Users\\Ashi\\.nuget\\packages\\",
       "outputPath": "C:\\Conestoga\\PROG2070\\eCommerce_Product\\eCommerce_Product\\obj\\",
       "projectStyle": "PackageReference",

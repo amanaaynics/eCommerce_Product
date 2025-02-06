@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Conestoga\\PROG2070\\eCommerce_Product\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FD8887A-1574-4C9E-A343-66CBA98AA87F}|eCommerce_Product\\eCommerce_Product.csproj|c:\\conestoga\\prog2070\\ecommerce_product\\ecommerce_product\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FD8887A-1574-4C9E-A343-66CBA98AA87F}|eCommerce_Product\\eCommerce_Product.csproj|solutionrelative:ecommerce_product\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FD8887A-1574-4C9E-A343-66CBA98AA87F}|eCommerce_Product\\MyProject.csproj|c:\\conestoga\\prog2070\\ecommerce_product\\ecommerce_product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD8887A-1574-4C9E-A343-66CBA98AA87F}|eCommerce_Product\\MyProject.csproj|solutionrelative:ecommerce_product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DB8586-1BA7-47C1-8B72-FE6D65BF7147}|ProductTests\\ProductTests.csproj|c:\\conestoga\\prog2070\\ecommerce_product\\producttests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DB8586-1BA7-47C1-8B72-FE6D65BF7147}|ProductTests\\ProductTests.csproj|solutionrelative:producttests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 205,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "C:\\Conestoga\\PROG2070\\eCommerce_Product\\ProductTests\\ProductTests.cs",
+              "RelativeDocumentMoniker": "ProductTests\\ProductTests.cs",
+              "ToolTip": "C:\\Conestoga\\PROG2070\\eCommerce_Product\\ProductTests\\ProductTests.cs",
+              "RelativeToolTip": "ProductTests\\ProductTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:43:11.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Conestoga\\PROG2070\\eCommerce_Product\\eCommerce_Product\\Class1.cs",
-              "RelativeDocumentMoniker": "eCommerce_Product\\Class1.cs",
-              "ToolTip": "C:\\Conestoga\\PROG2070\\eCommerce_Product\\eCommerce_Product\\Class1.cs",
-              "RelativeToolTip": "eCommerce_Product\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Conestoga\\PROG2070\\eCommerce_Product\\eCommerce_Product\\Product.cs",
+              "RelativeDocumentMoniker": "eCommerce_Product\\Product.cs",
+              "ToolTip": "C:\\Conestoga\\PROG2070\\eCommerce_Product\\eCommerce_Product\\Product.cs",
+              "RelativeToolTip": "eCommerce_Product\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T19:36:28.034Z",
               "EditorCaption": ""
