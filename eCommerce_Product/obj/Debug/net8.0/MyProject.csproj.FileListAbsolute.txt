@@ -1,0 +1,11 @@
+C:\Conestoga\PROG2070\eCommerce_Product\eCommerce_Product\bin\Debug\net8.0\MyProject.deps.json
+C:\Conestoga\PROG2070\eCommerce_Product\eCommerce_Product\bin\Debug\net8.0\MyProject.dll
+C:\Conestoga\PROG2070\eCommerce_Product\eCommerce_Product\bin\Debug\net8.0\MyProject.pdb
+C:\Conestoga\PROG2070\eCommerce_Product\eCommerce_Product\obj\Debug\net8.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Conestoga\PROG2070\eCommerce_Product\eCommerce_Product\obj\Debug\net8.0\MyProject.AssemblyInfoInputs.cache
+C:\Conestoga\PROG2070\eCommerce_Product\eCommerce_Product\obj\Debug\net8.0\MyProject.AssemblyInfo.cs
+C:\Conestoga\PROG2070\eCommerce_Product\eCommerce_Product\obj\Debug\net8.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Conestoga\PROG2070\eCommerce_Product\eCommerce_Product\obj\Debug\net8.0\MyProject.dll
+C:\Conestoga\PROG2070\eCommerce_Product\eCommerce_Product\obj\Debug\net8.0\refint\MyProject.dll
+C:\Conestoga\PROG2070\eCommerce_Product\eCommerce_Product\obj\Debug\net8.0\MyProject.pdb
+C:\Conestoga\PROG2070\eCommerce_Product\eCommerce_Product\obj\Debug\net8.0\ref\MyProject.dll

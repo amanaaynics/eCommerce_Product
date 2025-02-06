@@ -27,7 +27,7 @@
 
         public void DecreaseStock(int amount)
         {
-            if (StockAmount > amount)
+            if (amount > 0 && StockAmount >= amount)
             {
                 StockAmount -= amount;
             }
